@@ -4,6 +4,15 @@ title = "Naive Bayesian"
 googleAnalytics = "UA-101190177-1"
 theme = "beautifulhugo"
 
+[Params]
+  # subtitle = "Build a beautiful and simple website in minutes"
+  # logo = "img/avatar-icon.png"
+  # favicon = "img/favicon.ico"
+  # dateFormat = "January 2, 2006"
+  # commit = false
+  rss = true
+  # comments = true
+
 
 [Author]
   name = "Michael Simpson"
