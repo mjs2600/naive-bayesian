@@ -6,8 +6,8 @@ theme = "beautifulhugo"
 
 [Params]
   # subtitle = "Build a beautiful and simple website in minutes"
-  # logo = "img/avatar-icon.png"
-  # favicon = "img/favicon.ico"
+  logo = "images/profile.png"
+  # favicon = "images/lambda.svg"
   # dateFormat = "January 2, 2006"
   # commit = false
   rss = true
