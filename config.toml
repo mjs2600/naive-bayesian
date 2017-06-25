@@ -1,9 +1,8 @@
-baseURL = "http://example.org/"
+baseURL = "https://mjs2600.github.io/"
 languageCode = "en-us"
 title = "Naive Bayesian"
 googleAnalytics = "UA-101190177-1"
 theme = "beautifulhugo"
-publishDir = "docs"
 
 
 [Author]
