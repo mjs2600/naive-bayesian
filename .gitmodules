@@ -1,0 +1,4 @@
+[submodule "public"]
+	path = public
+	url = git@github.com:mjs2600/mjs2600.github.io.git
+	branch = master

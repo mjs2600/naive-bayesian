@@ -1,0 +1,30 @@
+baseURL = "http://example.org/"
+languageCode = "en-us"
+title = "Naive Bayesian"
+googleAnalytics = "UA-101190177-1"
+theme = "beautifulhugo"
+publishDir = "docs"
+
+
+[Author]
+  name = "Michael Simpson"
+  email = "mjs2600@gmail.com"
+  github = "mjs2600"
+  twitter = "mjs2600"
+  linkedin = "michael-simpson-30ba6011"
+  keybase = "mjs2600"
+
+[[menu.main]]
+    name = "Blog"
+    url = ""
+    weight = 1
+
+[[menu.main]]
+    name = "About"
+    url = "page/about/"
+    weight = 3
+
+[[menu.main]]
+    name = "Tags"
+    url = "tags"
+    weight = 3
