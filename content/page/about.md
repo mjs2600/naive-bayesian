@@ -10,14 +10,16 @@ title = "About Me"
     {
       "@context": "http://schema.org",
       "@type": "Person",
-      "jobTitle": "Chief Data Scientist",
       "name": "Michael Simpson",
+      "image": "https://mjs2600.github.io/images/profile.png",
+      "jobTitle": "Chief Data Scientist",
       "alumniOf": "Georgia Institute of Technology",
       "gender": "male",
       "url": "http://mjs2600.github.io/",
-	    "sameAs" : [
-              "https://twitter.com/mjs2600",
-              "https://mastodon.technology/web/accounts/78564"]
+      "sameAs" : [
+        "https://twitter.com/mjs2600",
+        "https://mastodon.technology/web/accounts/78564"
+      ]
     }
 </script>
 
