@@ -11,9 +11,25 @@ title = "About Me"
       "@context": "http://schema.org",
       "@type": "Person",
       "name": "Michael Simpson",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "USA",
+        "addressRegion": "VT",
+        "addressLocality": "Middlebury"
+      },
       "image": "https://mjs2600.github.io/images/profile.png",
+      "spouse": {
+        "@type": "Person",
+        "name": "Mary Jane Simpson",
+        "url": "http://www.middlebury.edu/academics/chem/faculty/node/539926"
+      },
       "jobTitle": "Chief Data Scientist",
-      "alumniOf": "Georgia Institute of Technology",
+      "alumniOf": {
+        "@type": "EducationalOrganization",
+        "name": "Georgia Institute of Technology",
+        "alternateName": "Georgia Tech",
+        "url": "https://www.gatech.edu/"
+      },
       "gender": "male",
       "url": "http://mjs2600.github.io/",
       "sameAs" : [
