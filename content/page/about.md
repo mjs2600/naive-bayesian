@@ -1,9 +1,8 @@
 +++
-date = "2017-06-19T12:34:19-04:00"
+date = "2019-03-27T12:34:19-04:00"
 subtitle = ""
 tags = []
 title = "About Me"
-
 +++
 
 <script type="application/ld+json">
@@ -30,7 +29,7 @@ title = "About Me"
         "alternateName": "Georgia Tech",
         "url": "https://www.gatech.edu/"
       },
-      "gender": "male",
+      "gender": "http://schema.org/Male",
       "url": "http://mjs2600.github.io/",
       "sameAs" : [
         "https://twitter.com/mjs2600",
