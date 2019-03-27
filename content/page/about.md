@@ -31,9 +31,13 @@ title = "About Me"
       },
       "gender": "http://schema.org/Male",
       "url": "http://mjs2600.github.io/",
+      "email": "mjs2600@gmail.com",
       "sameAs" : [
         "https://twitter.com/mjs2600",
-        "https://mastodon.technology/web/accounts/78564"
+        "https://mastodon.technology/web/accounts/78564",
+        "https://github.com/mjs2600",
+        "https://keybase.io/mjs2600",
+        "https://www.linkedin.com/in/michael-simpson-30ba6011"
       ]
     }
 </script>
