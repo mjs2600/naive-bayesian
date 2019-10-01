@@ -3,44 +3,8 @@ date = "2019-03-27T12:34:19-04:00"
 subtitle = ""
 tags = []
 title = "About Me"
+IsAbout = true
 +++
-
-<script type="application/ld+json">
-    {
-      "@context": "http://schema.org",
-      "@type": "Person",
-      "name": "Michael Simpson",
-      "address": {
-        "@type": "PostalAddress",
-        "addressCountry": "USA",
-        "addressRegion": "VT",
-        "addressLocality": "Middlebury"
-      },
-      "image": "https://mjs2600.github.io/images/profile.png",
-      "spouse": {
-        "@type": "Person",
-        "name": "Mary Jane Simpson",
-        "url": "http://www.middlebury.edu/academics/chem/faculty/node/539926"
-      },
-      "jobTitle": "Chief Data Scientist",
-      "alumniOf": {
-        "@type": "EducationalOrganization",
-        "name": "Georgia Institute of Technology",
-        "alternateName": "Georgia Tech",
-        "url": "https://www.gatech.edu/"
-      },
-      "gender": "http://schema.org/Male",
-      "url": "http://mjs2600.github.io/",
-      "email": "mjs2600@gmail.com",
-      "sameAs" : [
-        "https://twitter.com/mjs2600",
-        "https://mastodon.technology/web/accounts/78564",
-        "https://github.com/mjs2600",
-        "https://keybase.io/mjs2600",
-        "https://www.linkedin.com/in/michael-simpson-30ba6011"
-      ]
-    }
-</script>
 
 I live in Middlebury, Vermont with my wife, [Mary Jane](http://www.middlebury.edu/academics/chem/faculty/node/539926), and two small children.
 I am the chief data scientist at [Snthesis](https://snthesis.com/) and a graduate from Georgia Tech's [OMSCS program](http://www.omscs.gatech.edu/).
